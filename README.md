@@ -1,7 +1,6 @@
 # mint-backgrounds-petra
 
 ![AUR version](https://img.shields.io/aur/version/mint-backgrounds-petra?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/mint-backgrounds-petra-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/mint-backgrounds-petra-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-petra)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-petra`. Instead of building the
